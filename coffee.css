@@ -1,0 +1,101 @@
+ul,li{
+    display: inline;
+    transition: 0.05px;
+}
+    .a{
+        font-size: 50px;
+        margin-right: 700px;
+    }
+    .b{
+        padding-right: 60px;
+        cursor: pointer;
+    }
+    .d{
+        background-color: black;
+        color: sandybrown;
+        background: rgba(0,0,0,0.5) url(coffee\ 1.webp);
+        background-blend-mode: darken;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 780px;
+    }
+    .e{
+        width: 400px;
+        border: 5px solid white;
+        background-color: black;
+        background: rgba(0,0,0,0.4);
+        border-radius: 20px;
+        padding: 15px;
+        z-index: 20;
+        margin-top: 25%;
+        margin-left: 10%;
+    }
+    body{
+        margin: 0% ;
+    }
+    center{
+        color: rgb(219, 20, 20);
+    }
+    .h{
+        display: flex;
+        padding:30px;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        gap: 20px;
+        padding-bottom: 15%;
+    }
+    .ms{
+        background-color: white;
+        margin-top: 80px;
+        border: radius 20px;
+    }
+    .h{
+        background-color: burlywood;
+    }
+    .box{
+        width: 400px;
+        border: 5px solid burlywood;
+        background-color: brown;
+        background: rgba(0,0,0,0.4);
+        border-radius: 20px;
+        padding: 15px;
+        z-index: 20;
+        margin-top: 25%;
+        margin-left: 10%;
+    }
+    .hs{
+        display: flex;
+        padding: 30px;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        gap: 20px;
+        background-color: lightyellow;
+    }
+    .sc{
+        width:400px;
+        border: 5px solid bisque;
+        background-color: azure;
+        border-radius: 20px;
+        padding: 20px;
+        color: brown;
+        margin: 20px;
+        height: 200px;
+    }
+    .pic{
+        padding: 20px;
+    }
+    .one{
+        background-color: black;
+        color: white;
+        padding: 100px;
+    }
+    .yes{
+        color: white;
+    }
+    .os{
+        color: white;
+    }
+    .us{
+        padding: 20px;
+        background-color: whitesmoke;
+    }
